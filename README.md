@@ -30,3 +30,5 @@ The project requires the following dependencies:
 - matplotlib
 - seaborn
 
+
+[Click here to view my project](https://aravaravind.github.io/Russian-Alcoho-EDA/)
